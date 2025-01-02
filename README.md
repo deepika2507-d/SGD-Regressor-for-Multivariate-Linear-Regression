@@ -52,6 +52,5 @@ RegisterNumber:  24000724
 ![Screenshot (41)](https://github.com/user-attachments/assets/e4217f50-6505-4ee2-aed9-6d347bd6d983)
 
 
-
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
